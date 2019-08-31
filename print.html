@@ -162,7 +162,7 @@
 </li>
 <li>
 <p>Video lectures by the authors based on the book content are available on Youtube.</p>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/fOMVZXLjKYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/fOMVZXLjKYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li>
 <li>
 <p>A <a href="https://www.coursera.org/learn/cryptocurrency">Coursera course</a> based on the book also runs regularly. It takes about 18 hours to complete.</p>
@@ -193,7 +193,7 @@
 <li>
 <p><strong>NCC 2018 Bitcoin Tutorial Video</strong></p>
 <p>Youtube video of a two-hour Bitcoin tutorial I gave at the National Conference on Communications in Hyderabad on Feb 25, 2018.</p>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/tySLqNScRIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/tySLqNScRIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li>
 </ul>
 
@@ -218,6 +218,21 @@
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3001");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload(true); // force reload from server (not from cache)
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         
