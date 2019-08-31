@@ -9,7 +9,7 @@
       + A free pre-publication draft is available at [http://bitcoinbook.cs.princeton.edu/](http://bitcoinbook.cs.princeton.edu/). The [hardcover version](https://www.amazon.in/dp/0691171696) has better formatting than the draft but it is expensive.
       + Video lectures by the authors based on the book content are available on Youtube.
 
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/fOMVZXLjKYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="320" height="180" src="https://www.youtube.com/embed/fOMVZXLjKYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       + A [Coursera course](https://www.coursera.org/learn/cryptocurrency) based on the book also runs regularly. It takes about 18 hours to complete.
 
@@ -39,4 +39,4 @@
     
     Youtube video of a two-hour Bitcoin tutorial I gave at the National Conference on Communications in Hyderabad on Feb 25, 2018.
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/tySLqNScRIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="320" height="180" src="https://www.youtube.com/embed/tySLqNScRIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
