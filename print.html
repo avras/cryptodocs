@@ -212,7 +212,7 @@
 <ul>
 <li>
 <p><a href="https://zkp.science/">zkp.science</a></p>
-<p>A page with links to seminal papers and software.</p>
+<p>A page with links to seminal papers (new and old) and latest software.</p>
 </li>
 <li>
 <p><a href="https://zkp.science/">zkproof.org</a></p>
@@ -220,7 +220,7 @@
 </li>
 <li>
 <p><a href="https://www.zeroknowledge.fm/">zeroknowledge.fm</a></p>
-<p>A podcast with many episodes on projects using zero-knowledge proofs. Some episodes dwell on topics in the areas of privacy, blockchains and cryptocurrencies.</p>
+<p>A podcast with many episodes on projects using zero-knowledge proofs. Some episodes dwell on topics in the areas of privacy, blockchains, and cryptocurrencies.</p>
 </li>
 <li>
 <p><a href="https://zkmesh.substack.com/">zkmesh</a></p>
@@ -264,6 +264,21 @@
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3001");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload(true); // force reload from server (not from cache)
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         
