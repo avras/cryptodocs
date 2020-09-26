@@ -14,7 +14,7 @@
 
 - [zkp.science](https://zkp.science/)
 
-  A page with links to seminal papers and software.
+  A page with links to seminal papers (new and old) and latest software.
 
 - [zkproof.org](https://zkp.science/)
 
@@ -22,7 +22,7 @@
 
 - [zeroknowledge.fm](https://www.zeroknowledge.fm/)
 
-  A podcast with many episodes on projects using zero-knowledge proofs. Some episodes dwell on topics in the areas of privacy, blockchains and cryptocurrencies.
+  A podcast with many episodes on projects using zero-knowledge proofs. Some episodes dwell on topics in the areas of privacy, blockchains, and cryptocurrencies.
 
 - [zkmesh](https://zkmesh.substack.com/)
 
