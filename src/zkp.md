@@ -7,7 +7,7 @@
   A good reference for the basics on zero-knowledge proof systems. A [paperback version]( https://www.amazon.in/dp/0521670527) is available.
 
 - **A Graduate Course in Applied Cryptography** by *Dan Boneh and Victor Shoup*. Book draft
- 
+
   A comprehensive book on cryptography with some chapters on zero-knowledge proof systems. A free PDF can be downloaded from the [book site](https://toc.cryptobook.us/).
 
 - **Proofs, Arguments, and Zero-Knowledge** by *Justin Thaler*. Draft monograph
