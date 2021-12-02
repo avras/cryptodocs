@@ -20,7 +20,7 @@
 
   A page with links to seminal papers (new and old) and latest software.
 
-- [zkproof.org](https://zkp.science/)
+- [zkproof.org](https://zkproof.org/)
 
   The website of a joint industry-academia initiative to standardize zero-knowledge proof cryptography.
 
